@@ -1,0 +1,4 @@
+Le mie riflessioni su questo corso sono bellissime:
+
+- Ho imparato a conoscere Git
+- Ho imparato a creare nuove repository
