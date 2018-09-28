@@ -1,0 +1,5 @@
+Queste invece sono le mie riflessioni dopo aver fatto altre lezioni:
+
+- Ho imparato a conforntare diversi files tra loro
+- Ho imparato a creare e gestire dei branches 
+- Ho imparato ad unirli al master con il comando merge
